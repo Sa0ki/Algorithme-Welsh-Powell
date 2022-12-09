@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Sommet {
     private char Name; 
-    Couleur C;
+    private Couleur C;
     private List <Sommet> Liaisons;
 
     public Sommet(char l){
